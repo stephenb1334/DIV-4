@@ -1,0 +1,45 @@
+with 10% down payment, we'll need to include PMI. Let's work backwards again from the $3,493.00 monthly payment, but with 10% down:
+
+Current assumptions:
+- Federal interest rate: 7%
+- Mortgage rate: ~7.75% for well-qualified buyers
+- 10% down payment
+- PMI required (typically 0.5-1.2% of loan amount annually for this scenario)
+- Philadelphia property tax rate: 1.3998%
+
+Working backwards with the $3,493 monthly payment:
+
+Let's break down the new monthly components:
+
+```
+Monthly Principal: $545
+Monthly Interest: $1,773
+Monthly Property Tax: $765
+Monthly Home Insurance: $165
+Monthly PMI: $245
+------------------------
+Total Monthly Fixed: $3,493
+```
+
+This suggests:
+- Home Purchase Price: ~$440,000
+- Down Payment (10%): $44,000
+- Loan Amount: $396,000
+
+Key differences from 20% down scenario:
+1. Lower purchase price possible due to PMI eating into monthly payment capacity
+2. Added PMI cost (~0.75% annually of loan amount)
+3. Slightly lower property tax due to lower home value
+4. Slightly lower insurance due to lower home value
+5. Higher loan amount relative to home value
+
+The monthly payment breakdown reflects:
+- P&I payment higher due to larger loan amount
+- PMI required until reaching 20% equity
+- Property taxes slightly lower due to lower overall purchase price
+- Insurance slightly lower due to lower replacement value
+
+This scenario is actually more realistic for many Philadelphia buyers in 2025, as saving 20% down payment ($88,000+ in previous scenario) would be challenging for many buyers in this price range.
+
+The PMI can typically be removed once the loan-to-value ratio reaches 80% (either through payments or home value appreciation), which could take several years depending on market conditions and extra principal payments.
+
