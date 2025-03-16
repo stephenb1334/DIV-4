@@ -1,0 +1,658 @@
+Below is a fully comprehensive start-to-end summary of financial events involving Zelle and Venmo transactions from Melissa A. Bemer’s Santander bank statements, covering the earliest date (12/21/21) to the latest date (09/30/24) available in the provided attachments. This summary is based on the updated comprehensive transaction table, which includes 98 transactions (25 Zelle, 73 Venmo) after incorporating all documents. The analysis focuses on key financial events, including deposits (credits), withdrawals (debits), and notable trends, presented chronologically.
+
+---
+
+### Comprehensive Financial Event Summary (12/21/21 to 09/30/24)
+
+#### 2021
+- **12/21/21**:  
+  - **Event**: VENMO CASHOUT 211220 *** - Credit of $212.00.  
+  - **Details**: Initial cashout into the account, increasing the balance to $2,971.91. This marks the earliest financial event, suggesting an influx of funds, possibly from a Venmo balance transfer.
+
+- **12/24/21**:  
+  - **Event**: VENMO PAYMENT 211223 - Debit of $15.00.  
+  - **Details**: First recorded Venmo payment, reducing the balance to $2,745.75. Indicates early use of Venmo for small transactions.
+
+#### 2022
+- **01/05/22**:  
+  - **Event**: VENMO PAYMENT 220104 - Debit of $50.00.  
+  - **Details**: Balance drops to $4,004.82, showing a moderate payment, possibly for a service or personal expense.
+
+- **01/07/22**:  
+  - **Event**: VENMO PAYMENT 220106 - Debit of $60.00.  
+  - **Details**: Balance reduces to $3,940.26, continuing a pattern of small to moderate Venmo payments.
+
+- **01/10/22**:  
+  - **Event**: VENMO PAYMENT 220109 - Debit of $33.00; VENMO PAYMENT 220107 - Debit of $35.00.  
+  - **Details**: Two payments totaling $68.00, lowering the balance to $3,529.28, indicating frequent small transactions.
+
+- **01/24/22**:  
+  - **Event**: VENMO PAYMENT 220121 - Debit of $15.00; VENMO PAYMENT 220122 - Debit of $20.00; VENMO PAYMENT 220123 - Debit of $25.00.  
+  - **Details**: Three payments totaling $60.00, reducing the balance to $5,011.38, suggesting a cluster of expenses or repayments.
+
+- **02/07/22**:  
+  - **Event**: VENMO PAYMENT 220206 - Debit of $19.00.  
+  - **Details**: Balance drops to $5,985.19, maintaining small payment activity.
+
+- **02/09/22**:  
+  - **Event**: VENMO PAYMENT 220208 - Debit of $250.00.  
+  - **Details**: Larger payment reduces the balance to $5,570.69, indicating a significant expense or transfer.
+
+- **03/11/22**:  
+  - **Event**: VENMO PAYMENT 220310 - Debit of $4,000.00.  
+  - **Details**: Major payment drops the balance to $1,011.38, the largest single Venmo debit to date, possibly a major purchase or debt settlement.
+
+- **04/25/22**:  
+  - **Event**: VENMO PAYMENT 220423 - Debit of $1,000.00.  
+  - **Details**: Balance reduces to $3,473.92, another significant payment, suggesting ongoing large transactions.
+
+- **05/04/22**:  
+  - **Event**: VENMO PAYMENT 220503 - Debit of $50.00.  
+  - **Details**: Balance drops to $3,066.14, returning to smaller payments.
+
+- **05/11/22**:  
+  - **Event**: VENMO PAYMENT 220510 - Debit of $1,600.00.  
+  - **Details**: Balance falls to $2,269.06, another large payment, indicating a pattern of occasional high-value Venmo transactions.
+
+- **05/23/22**:  
+  - **Event**: ZELLE STEPHEN BOERN US CARD PURCHASE - Debit of $5.00.  
+  - **Details**: First Zelle payment to Stephen Boerner, reducing the balance to $3,224.88, a small initial transaction.
+
+- **05/31/22**:  
+  - **Event**: ZELLE STEPHEN BOERN US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance drops to $1,386.18, marking the start of regular $1,200.00 monthly Zelle payments to Stephen Boerner.
+
+- **06/13/22**:  
+  - **Event**: VENMO PAYMENT 220611 - Debit of $250.00.  
+  - **Details**: Balance reduces to $1,826.47, another moderate Venmo payment.
+
+- **07/05/22**:  
+  - **Event**: ZELLE STEPHEN BOERN Scottsdale/AZ US CARD PURCHASE - Debit of $1,200.00; VENMO PAYMENT 220702 - Debit of $75.00.  
+  - **Details**: Zelle payment lowers the balance to $2,394.14, followed by a Venmo payment reducing it to $2,308.15, continuing the pattern of mixed transactions.
+
+- **07/15/22**:  
+  - **Event**: VENMO PAYMENT 220714 - Debit of $38.00.  
+  - **Details**: Balance drops to $3,021.99, maintaining small Venmo activity.
+
+- **08/11/22**:  
+  - **Event**: VENMO PAYMENT 220810 - Debit of $20.00.  
+  - **Details**: Balance reduces to $811.91, a small payment amid fluctuating balances.
+
+- **08/15/22**:  
+  - **Event**: VENMO PAYMENT 220814 - Debits of $20.00, $30.00, and $200.00.  
+  - **Details**: Three payments totaling $250.00, dropping the balance to $1,882.19, indicating a significant expense day.
+
+- **09/06/22**:  
+  - **Event**: VENMO PAYMENT 220902 - Debit of $25.00.  
+  - **Details**: Balance falls to $1,881.58, a small payment.
+
+- **09/12/22**:  
+  - **Event**: VENMO PAYMENT 220909 - Debit of $285.00.  
+  - **Details**: Balance increases to $2,969.89 (likely due to an unlisted deposit), then drops with this payment, suggesting a larger transaction.
+
+- **09/14/22**:  
+  - **Event**: VENMO PAYMENT 220913 - Debit of $50.00.  
+  - **Details**: Balance reduces to $2,887.94, a moderate payment.
+
+- **09/15/22**:  
+  - **Event**: VENMO PAYMENT 220914 - Debit of $49.00.  
+  - **Details**: Balance drops to $2,799.77, another moderate payment.
+
+- **10/03/22**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance falls to $1,035.14, continuing the $1,200.00 monthly Zelle pattern.
+
+- **10/17/22**:  
+  - **Event**: VENMO PAYMENT 221014 - Debit of $60.00.  
+  - **Details**: Balance reduces to $1,795.99, a moderate Venmo payment.
+
+- **10/27/22**:  
+  - **Event**: VENMO PAYMENT 221026 - Debit of $50.00.  
+  - **Details**: Balance drops to $2,326.80, another moderate payment.
+
+- **11/02/22**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance falls to $937.57, maintaining the Zelle payment trend.
+
+- **12/02/22**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance drops to $2,700.77, consistent monthly Zelle payment.
+
+- **12/30/22**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance reduces to $2,545.72, continuing the pattern.
+
+#### 2023
+- **01/31/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance falls to $2,667.15, maintaining the $1,200.00 monthly Zelle payments.
+
+- **02/13/23**:  
+  - **Event**: VENMO PAYMENT 230212 - Debit of $20.00.  
+  - **Details**: Balance drops to $3,112.12, a small Venmo payment.
+
+- **03/01/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,200.00.  
+  - **Details**: Balance reduces to $2,742.99, continuing the Zelle trend.
+
+- **03/11/23**:  
+  - **Event**: VENMO PAYMENT 230312 - Debit of $20.00.  
+  - **Details**: Balance falls to $3,691.21, a small payment.
+
+- **03/12/23**:  
+  - **Event**: VENMO PAYMENT 230313 - Debit of $20.00.  
+  - **Details**: Balance remains $3,691.21 (possible balance error in statement), another small payment.
+
+- **03/17/23**:  
+  - **Event**: VENMO PAYMENT 230316 - Debit of $40.00.  
+  - **Details**: Balance drops to $3,711.84, a moderate payment.
+
+- **03/26/23**:  
+  - **Event**: VENMO PAYMENT 230314 - Debit of $15.00.  
+  - **Details**: Balance reduces to $3,841.82, a small payment.
+
+- **04/03/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,350.00; VENMO PAYMENT 230331 - Debit of $45.00.  
+  - **Details**: Zelle payment increases the balance to $3,959.61, then Venmo payment drops it to $3,314.61, showing a shift to $1,350.00 Zelle payments.
+
+- **04/18/23**:  
+  - **Event**: VENMO PAYMENT 230417 - Debit of $15.00.  
+  - **Details**: Balance falls to $5,039.69, a small payment amid a rising balance.
+
+- **04/26/23**:  
+  - **Event**: VENMO PAYMENT 230424 - Debit of $30.00.  
+  - **Details**: Balance reduces to $6,659.67, a moderate payment.
+
+- **05/01/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,350.00.  
+  - **Details**: Balance drops to $5,193.99, maintaining the $1,350.00 Zelle pattern.
+
+- **05/02/23**:  
+  - **Event**: VENMO PAYMENT 230502 - Debit of $280.00.  
+  - **Details**: Balance falls to $4,883.30, a significant Venmo payment.
+
+- **05/08/23**:  
+  - **Event**: VENMO PAYMENT 230506 - Debit of $45.00.  
+  - **Details**: Balance reduces to $6,534.21, a moderate payment.
+
+- **05/19/23**:  
+  - **Event**: VENMO PAYMENT 230518 - Debit of $1,000.00.  
+  - **Details**: Balance drops to $5,505.85, a large payment indicating a major expense or transfer.
+
+- **05/24/23**:  
+  - **Event**: VENMO PAYMENT 230523 - Debit of $768.00.  
+  - **Details**: Balance remains $5,505.85 (possible balance error), a substantial payment.
+
+- **06/01/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,350.00.  
+  - **Details**: Balance falls to $3,469.51, continuing the $1,350.00 Zelle trend.
+
+- **06/02/23**:  
+  - **Event**: VENMO PAYMENT 230601 - Debit of $100.00.  
+  - **Details**: Balance reduces to $3,369.51, a moderate payment.
+
+- **06/16/23**:  
+  - **Event**: VENMO PAYMENT 230615 - Debit of $59.00.  
+  - **Details**: Balance drops to $5,844.00, a small to moderate payment.
+
+- **07/03/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,400.00.  
+  - **Details**: Balance falls to $5,563.26, a slight increase to $1,400.00 in Zelle payments.
+
+- **07/06/23**:  
+  - **Event**: VENMO PAYMENT 230705 - Debit of $45.00.  
+  - **Details**: Balance reduces to $5,093.69, a moderate payment.
+
+- **07/07/23**:  
+  - **Event**: VENMO PAYMENT 230706 - Debit of $115.00.  
+  - **Details**: Balance drops to $4,758.94, a larger Venmo payment.
+
+- **07/24/23**:  
+  - **Event**: VENMO PAYMENT 230722 - Debit of $20.00.  
+  - **Details**: Balance falls to $5,601.46, a small payment.
+
+- **07/28/23**:  
+  - **Event**: VENMO PAYMENT 230727 - Debit of $1,500.00.  
+  - **Details**: Balance reduces to $5,554.19, a significant payment.
+
+- **08/14/23**:  
+  - **Event**: VENMO PAYMENT 230813 - Debit of $50.00.  
+  - **Details**: Balance drops to $6,422.07, a moderate payment.
+
+- **08/15/23**:  
+  - **Event**: VENMO PAYMENT 230814 - Debit of $272.00.  
+  - **Details**: Balance falls to $6,013.81, a substantial payment.
+
+- **09/01/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $2,500.00.  
+  - **Details**: Balance drops to $4,521.86, a significant increase to $2,500.00 in Zelle payments.
+
+- **09/11/23**:  
+  - **Event**: VENMO PAYMENT 230910 - Debit of $350.00.  
+  - **Details**: Balance reduces to $4,900.63, a large Venmo payment.
+
+- **09/18/23**:  
+  - **Event**: VENMO PAYMENT 230915 - Debit of $135.00.  
+  - **Details**: Balance falls to $3,921.85, a moderate payment.
+
+- **10/02/23**:  
+  - **Event**: VENMO PAYMENT 231001 - Debits of $13.00, $30.00, and $150.00.  
+  - **Details**: Three payments totaling $193.00, reducing the balance to $4,008.15, indicating a busy transaction day.
+
+- **10/03/23**:  
+  - **Event**: VENMO PAYMENT 231002 - Debit of $50.00.  
+  - **Details**: Balance drops to $3,730.47, a moderate payment.
+
+- **10/04/23**:  
+  - **Event**: VENMO PAYMENT 231003 - Debit of $20.00.  
+  - **Details**: Balance falls to $3,682.91, a small payment.
+
+- **10/06/23**:  
+  - **Event**: VENMO PAYMENT 231005 - Debit of $35.00.  
+  - **Details**: Balance reduces to $4,465.78, a moderate payment.
+
+- **10/11/23**:  
+  - **Event**: ZELLE STEPHEN BOER/AZ US CARD PURCHASE - Debit of $1,250.00; ZELLE STEPHEN ST. PETERSBURG US CARD PURCHASE - Debit of $163.50.  
+  - **Details**: Two Zelle payments totaling $1,413.50, dropping the balance to $2,545.73, with the $163.50 payment confirmed as to Stephen Boerner.
+
+- **10/20/23**:  
+  - **Event**: VENMO PAYMENT 231019 - Debit of $50.00.  
+  - **Details**: Balance falls to $3,223.82, a moderate payment.
+
+- **11/03/23**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER 877-726-5640-330700A0CT1 - Debit of $2,500.00.  
+  - **Details**: Balance drops to $4,163.07, a large Zelle payment.
+
+- **11/20/23**:  
+  - **Event**: VENMO CASHOUT 231117 - Credit of $100.00; VENMO PAYMENT 231117 - Debit of $20.00.  
+  - **Details**: Cashout increases the balance to $2,298.98, followed by a payment reducing it to $2,278.98, showing a net gain.
+
+- **12/04/23**:  
+  - **Event**: VENMO CASHOUT 231204 - Credit of $200.00.  
+  - **Details**: Balance rises to $1,239.35, another cashout influx.
+
+- **12/14/23**:  
+  - **Event**: VENMO PAYMENT 231213 - Debit of $55.00.  
+  - **Details**: Balance drops to $946.82, a moderate payment.
+
+- **12/27/23**:  
+  - **Event**: VENMO PAYMENT 231226 - Debit of $20.00.  
+  - **Details**: Balance falls to $741.98, a small payment.
+
+- **12/29/23**:  
+  - **Event**: VENMO PAYMENT 231228 - Debit of $40.00.  
+  - **Details**: Balance reduces to $702.81, a moderate payment.
+
+#### 2024
+- **01/02/24**:  
+  - **Event**: VENMO PAYMENT 231229 - Debit of $50.00; VENMO PAYMENT 231230 - Debit of $107.00.  
+  - **Details**: Two payments totaling $157.00, dropping the balance to $538.14, indicating early-year activity.
+
+- **03/07/24**:  
+  - **Event**: VENMO PAYMENT 240306 - Debit of $15.00.  
+  - **Details**: Balance falls to $1,008.35, a small payment.
+
+- **03/22/24**:  
+  - **Event**: VENMO PAYMENT 240321 - Debit of $25.00.  
+  - **Details**: Balance reduces to $557.93, a small payment.
+
+- **04/15/24**:  
+  - **Event**: VENMO PAYMENT 240414 - Debit of $25.00.  
+  - **Details**: Balance drops to $1,114.64, a small payment.
+
+- **04/25/24**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER - Debit of $800.00.  
+  - **Details**: Balance falls to $314.64, a Zelle payment to Stephen Boerner.
+
+- **04/29/24**:  
+  - **Event**: Zelle Transfer from CAROL BOERNER - Credit of $1,000.00.  
+  - **Details**: Balance rises to $1,314.64, a mistaken receipt intended for Stephen Boerner.
+
+- **04/30/24**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER - Debit of $1,000.00.  
+  - **Details**: Balance drops to $314.64, forwarding the $1,000.00 from Carol Boerner (not a net payment from Melissa).
+
+- **05/06/24**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H - Debit of $800.00.  
+  - **Details**: Balance falls to $2,608.35, a Zelle payment.
+
+- **05/07/24**:  
+  - **Event**: VENMO PAYMENT 240506 - Debit of $15.00.  
+  - **Details**: Balance reduces to $1,808.35, a small payment.
+
+- **05/17/24**:  
+  - **Event**: VENMO PAYMENT 240516 - Debit of $35.00.  
+  - **Details**: Balance drops to $3,230.39, a moderate payment.
+
+- **05/28/24**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H - Debit of $800.00; VENMO PAYMENT 240524 - Debit of $16.00.  
+  - **Details**: Zelle payment reduces the balance to $2,723.20, followed by a Venmo payment to $1,923.20.
+
+- **06/03/24**:  
+  - **Event**: VENMO PAYMENT 240531 - Debit of $12.00.  
+  - **Details**: Balance falls to $3,821.92, a small payment.
+
+- **06/10/24**:  
+  - **Event**: VENMO PAYMENT 240609 - Debit of $54.00.  
+  - **Details**: Balance reduces to $3,366.78, a moderate payment.
+
+- **06/14/24**:  
+  - **Event**: Zelle Transfer to STEPHEN BOERNER 877-726-5640-416600K0547T - Debit of $1,000.00.  
+  - **Details**: Balance drops to $2,366.78, a Zelle payment.
+
+- **07/23/24**:  
+  - **Event**: VENMO PAYMENT 240722 - Debit of $200.00.  
+  - **Details**: Balance falls to $5,033.98, a significant payment.
+
+- **07/29/24**:  
+  - **Event**: VENMO PAYMENT 240726 - Debits of $15.00, $30.00, and $200.00.  
+  - **Details**: Three payments totaling $245.00, reducing the balance to $6,912.48, indicating a busy transaction day.
+
+- **07/30/24**:  
+  - **Event**: VENMO PAYMENT 240729 - Debit of $50.00.  
+  - **Details**: Balance drops to $6,562.48, a moderate payment.
+
+- **08/02/24**:  
+  - **Event**: VENMO PAYMENT 240801 - Debit of $40.00.  
+  - **Details**: Balance reduces to $6,522.48, a small payment.
+
+- **08/05/24**:  
+  - **Event**: VENMO PAYMENT 240802 - Debit of $126.56.  
+  - **Details**: Balance falls to $6,195.92, a moderate payment.
+
+- **08/14/24**:  
+  - **Event**: VENMO CASHOUT 240813 - Credit of $4,500.00.  
+  - **Details**: Balance rises to $7,031.50, a major cashout influx.
+
+- **09/03/24**:  
+  - **Event**: VENMO PAYMENT 240831 - Debits of $4.58 and $3.52.  
+  - **Details**: Two small payments totaling $8.10, reducing the balance to $4,168.58, the final recorded transactions.
+
+- **09/25/24**:  
+  - **Event**: CLOSING TRANSACTION - WITHDRAWAL - Debit of $3,790.35.  
+  - **Details**: Balance drops to $0.00, marking the account closure.
+
+- **09/30/24**:  
+  - **Event**: Ending Balance - $0.00.  
+  - **Details**: Account officially closed, concluding all financial activity.
+
+---
+
+### Summary Analysis
+- **Total Transactions**: 98 (25 Zelle, 73 Venmo) over 2 years, 9 months, and 9 days (12/21/21 to 09/30/24).
+- **Zelle Overview**:
+  - **Count**: 25 transactions, all debits except one credit.
+  - **Total Debits**: $29,918.50 to Stephen Boerner (excluding the $1,000.00 pass-through from 04/30/24).
+  - **Total Credits**: $1,000.00 from Carol Boerner (04/29/24).
+  - **Pattern**: Regular monthly payments starting at $1,200.00 (May 2022), increasing to $1,350.00 (April 2023), then varying between $800.00 and $2,500.00 (July 2023 onward), with a peak of $2,500.00 in September and November 2023.
+- **Venmo Overview**:
+  - **Count**: 73 transactions, with 69 debits and 4 credits.
+  - **Total Debits**: $15,631.66.
+  - **Total Credits**: $5,012.00 (including a significant $4,500.00 cashout on 08/14/24).
+  - **Pattern**: Frequent small payments ($12.00–$50.00), with occasional large debits ($250.00–$4,000.00), peaking in March 2022 ($4,000.00) and July 2023 ($1,500.00). Cashouts increased in late 2023 and 2024, culminating in the account closure.
+- **Key Trends**:
+  - **Early 2022**: High Venmo debits ($1,000.00–$4,000.00) suggest major expenses or transfers.
+  - **Mid-2022 to Early 2023**: Consistent Zelle payments to Stephen Boerner ($1,200.00) alongside moderate Venmo activity.
+  - **Mid-2023**: Increased Venmo debits ($768.00–$1,500.00) and a shift to $1,350.00–$2,500.00 Zelle payments.
+  - **Late 2023 to 2024**: Reduced Zelle frequency (post-November 2023), with smaller Venmo payments and a large $4,500.00 cashout before account closure.
+  - **Address Changes**: Philadelphia, PA (12/05/21–11/30/23), Gulfport, FL (12/01/23–06/30/24), Wayne, PA (07/01/24–09/30/24), correlating with travel or relocation expenses.
+- **Account Closure**: The account reached a zero balance on 09/25/24 due to a $3,790.35 withdrawal, finalized by 09/30/24, indicating Melissa may have moved to another institution.
+
+This summary captures the full financial narrative from the earliest to the latest points in the provided data, reflecting Melissa A. Bemer’s transaction patterns over the period.
+
+
+
+
+
+
+
+-------
+
+
+
+
+
+
+
+
+In the context of a divorce, financial disclosure is a critical process where both parties are required to provide a complete and transparent accounting of their finances, typically including bank statements, income, expenses, assets, and liabilities for a specified period. Here, the disclosure period is early 2022 to the end of December 2024, but Melissa A. Bemer closed her Santander bank account on 09/30/24 with a final withdrawal of $3,790.35, and there is no record of where this amount was transferred or what financial activity occurred afterward. Let’s analyze whether this constitutes a misstep on her part and what it might indicate.
+
+Is Closing the Account on 09/30/24 a Misstep?
+Yes, closing the account on 09/30/24 without providing records of the $3,790.35 withdrawal or subsequent financial activity through the end of December 2024 can be considered a misstep in the context of divorce financial disclosure requirements. Here’s why:
+
+Incomplete Disclosure Period:
+The required disclosure period extends to the end of December 2024, but Melissa’s account closure on 09/30/24 means there are three months (October to December 2024) unaccounted for in her Santander records. Divorce proceedings typically require full transparency for the entire specified period, and failing to provide financial records for these months breaches that obligation.
+Lack of Transparency on the $3,790.35 Withdrawal:
+The final transaction on 09/25/24, labeled “CLOSING TRANSACTION - WITHDRAWAL” of $3,790.35, brought the account balance to $0.00 by 09/30/24. However, there is no record of where this significant sum was transferred (e.g., another bank account, cash withdrawal, payment to a third party). In divorce proceedings, all large transactions must be documented to ensure they are not attempts to hide assets or manipulate financial records. The absence of this information raises concerns about transparency.
+Failure to Document Subsequent Activity:
+After closing the account, Melissa likely transferred the $3,790.35 to another account or used it in some capacity (e.g., cash, investments, payments). Without records of her financial activity from 10/01/24 to 12/31/24, the other party in the divorce cannot assess whether these funds were used for legitimate purposes or potentially hidden, dissipated, or transferred to obscure assets. This gap violates the principle of full financial disclosure.
+Legal and Ethical Obligations:
+In most jurisdictions, divorce laws require both parties to disclose all financial activity during the specified period, even if an account is closed before the period ends. Melissa’s closure of the account without providing subsequent records (e.g., statements from a new bank account where the $3,790.35 was deposited) could be interpreted as non-compliance with discovery rules. This may lead to legal consequences, such as sanctions, adverse inferences, or a court order to produce additional records.
+Timing of Closure:
+The account closure on 09/30/24, just three months before the end of the disclosure period, could be viewed as suspicious, especially since it coincides with a large withdrawal. Courts often scrutinize last-minute financial maneuvers during divorce proceedings to ensure they are not attempts to obscure funds.
+What Does This Show?
+The closure of the account on 09/30/24 with a $3,790.35 withdrawal and no record of subsequent activity may suggest several possibilities, ranging from benign to concerning, depending on the context and intent:
+
+Potential Intent to Conceal Assets:
+The lack of transparency about the $3,790.35 withdrawal and the absence of financial records for October to December 2024 could suggest an attempt to hide assets. In divorce proceedings, courts are wary of parties dissipating or concealing funds to reduce the marital estate subject to division. Transferring the money to an undisclosed account, converting it to cash, or using it to pay third parties without documentation might be interpreted as an effort to obscure Melissa’s true financial position.
+Poor Financial Record-Keeping:
+It’s possible Melissa simply closed the account for legitimate reasons (e.g., switching banks, consolidating accounts) and failed to maintain or provide records of her subsequent activity. While this might not be intentional concealment, it still constitutes a failure to meet disclosure requirements. Courts expect parties to provide complete records, and ignorance or negligence is not typically a valid defense.
+Disregard for Disclosure Obligations:
+By closing the account and not providing follow-up records, Melissa may appear to be disregarding her legal obligation to provide full financial transparency. This can erode trust in the divorce process and lead the other party to suspect misconduct, even if none exists. Courts may view this as a lack of good faith, potentially impacting rulings on asset division, alimony, or attorney fees.
+Possible Legitimate Explanation:
+Melissa might have transferred the $3,790.35 to another account (e.g., a new bank account, investment account) or used it for legitimate expenses (e.g., living costs, legal fees) after closing the Santander account. Without records, however, the other party and the court cannot verify this. If Melissa can provide documentation (e.g., statements from a new bank account showing the deposit of $3,790.35 and subsequent activity), this could mitigate concerns. However, the absence of such records in the current disclosure is problematic.
+Impact on Financial Patterns:
+The $3,790.35 withdrawal aligns with a pattern of significant cashouts in 2024, such as the $4,500.00 Venmo cashout on 08/14/24. This suggests Melissa may have been consolidating funds or preparing to close the account. However, the lack of follow-up records makes it impossible to determine whether these funds remained part of the marital estate or were used in a way that affects the divorce settlement.
+Implications in Divorce Proceedings
+Adverse Inference: Courts may draw an adverse inference from Melissa’s failure to disclose the $3,790.35 withdrawal and subsequent activity. This means they might assume the funds were hidden or misused, potentially impacting asset division or spousal support calculations in favor of the other party.
+Sanctions or Penalties: If the other party files a motion to compel disclosure, Melissa could face sanctions, such as paying the other party’s legal fees, or be ordered to produce additional records. Non-compliance could also negatively affect her credibility in the case.
+Asset Division: Without clarity on the $3,790.35, the court might impute this amount as an asset still
+
+
+
+
+
+Date,Transaction Type,Recipient (if known),Debit Amount,Credit Amount,Balance After Transaction,Description
+12/21/21,Venmo Cashout,,,$212.00,$2,971.91,VENMO CASHOUT 211220 ***
+12/24/21,Venmo Payment,,$15.00,,$2,745.75,VENMO PAYMENT 211223
+01/05/22,Venmo Payment,,$50.00,,$4,004.82,VENMO PAYMENT 220104
+01/07/22,Venmo Payment,,$60.00,,$3,940.26,VENMO PAYMENT 220106
+01/10/22,Venmo Payment,,$33.00,,$3,679.28,VENMO PAYMENT 220109
+01/10/22,Venmo Payment,,$35.00,,$3,529.28,VENMO PAYMENT 220107
+01/24/22,Venmo Payment,,$15.00,,$5,056.38,VENMO PAYMENT 220121
+01/24/22,Venmo Payment,,$20.00,,$5,036.38,VENMO PAYMENT 220122
+01/24/22,Venmo Payment,,$25.00,,$5,011.38,VENMO PAYMENT 220123
+02/07/22,Venmo Payment,,$19.00,,$5,985.19,VENMO PAYMENT 220206
+02/09/22,Venmo Payment,,$250.00,,$5,570.69,VENMO PAYMENT 220208
+03/11/22,Venmo Payment,,$4,000.00,,$1,011.38,VENMO PAYMENT 220310
+04/25/22,Venmo Payment,,$1,000.00,,$3,473.92,VENMO PAYMENT 220423
+05/04/22,Venmo Payment,,$50.00,,$3,066.14,VENMO PAYMENT 220503
+05/11/22,Venmo Payment,,$1,600.00,,$2,269.06,VENMO PAYMENT 220510
+05/23/22,Zelle Payment,Stephen Boern,$5.00,,$3,224.88,ZELLE STEPHEN BOERN US CARD PURCHASE
+05/31/22,Zelle Payment,Stephen Boern,$1,200.00,,$1,386.18,ZELLE STEPHEN BOERN US CARD PURCHASE
+06/13/22,Venmo Payment,,$250.00,,$1,826.47,VENMO PAYMENT 220611
+07/05/22,Zelle Payment,Stephen Boern,$1,200.00,,$2,394.14,ZELLE STEPHEN BOERN Scottsdale/AZ US CARD PURCHASE
+07/05/22,Venmo Payment,,$75.00,,$2,308.15,VENMO PAYMENT 220702
+07/15/22,Venmo Payment,,$38.00,,$3,021.99,VENMO PAYMENT 220714
+08/11/22,Venmo Payment,,$20.00,,$811.91,VENMO PAYMENT 220810
+08/15/22,Venmo Payment,,$20.00,,$2,112.19,VENMO PAYMENT 220814
+08/15/22,Venmo Payment,,$30.00,,$2,082.19,VENMO PAYMENT 220814
+08/15/22,Venmo Payment,,$200.00,,$1,882.19,VENMO PAYMENT 220814
+09/06/22,Venmo Payment,,$25.00,,$1,881.58,VENMO PAYMENT 220902
+09/12/22,Venmo Payment,,$285.00,,$2,969.89,VENMO PAYMENT 220909
+09/14/22,Venmo Payment,,$50.00,,$2,887.94,VENMO PAYMENT 220913
+09/15/22,Venmo Payment,,$49.00,,$2,799.77,VENMO PAYMENT 220914
+10/03/22,Zelle Payment,Stephen Boer,$1,200.00,,$1,035.14,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+10/17/22,Venmo Payment,,$60.00,,$1,795.99,VENMO PAYMENT 221014
+10/27/22,Venmo Payment,,$50.00,,$2,326.80,VENMO PAYMENT 221026
+11/02/22,Zelle Payment,Stephen Boer,$1,200.00,,$937.57,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+12/02/22,Zelle Payment,Stephen Boer,$1,200.00,,$2,700.77,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+12/30/22,Zelle Payment,Stephen Boer,$1,200.00,,$2,545.72,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+01/31/23,Zelle Payment,Stephen Boer,$1,200.00,,$2,667.15,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+02/13/23,Venmo Payment,,$20.00,,$3,112.12,VENMO PAYMENT 230212
+03/01/23,Zelle Payment,Stephen Boer,$1,200.00,,$2,742.99,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+03/11/23,Venmo Payment,,$20.00,,$3,691.21,VENMO PAYMENT 230312
+03/12/23,Venmo Payment,,$20.00,,$3,691.21,VENMO PAYMENT 230313
+03/17/23,Venmo Payment,,$40.00,,$3,711.84,VENMO PAYMENT 230316
+03/26/23,Venmo Payment,,$15.00,,$3,841.82,VENMO PAYMENT 230314
+04/03/23,Zelle Payment,Stephen Boer,$1,350.00,,$3,959.61,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+04/03/23,Venmo Payment,,$45.00,,$3,314.61,VENMO PAYMENT 230331
+04/18/23,Venmo Payment,,$15.00,,$5,039.69,VENMO PAYMENT 230417
+04/26/23,Venmo Payment,,$30.00,,$6,659.67,VENMO PAYMENT 230424
+05/01/23,Zelle Payment,Stephen Boer,$1,350.00,,$5,193.99,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+05/02/23,Venmo Payment,,$280.00,,$4,883.30,VENMO PAYMENT 230502
+05/08/23,Venmo Payment,,$45.00,,$6,534.21,VENMO PAYMENT 230506
+05/19/23,Venmo Payment,,$1,000.00,,$5,505.85,VENMO PAYMENT 230518
+05/24/23,Venmo Payment,,$768.00,,$5,505.85,VENMO PAYMENT 230523
+06/01/23,Zelle Payment,Stephen Boer,$1,350.00,,$3,469.51,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+06/02/23,Venmo Payment,,$100.00,,$3,369.51,VENMO PAYMENT 230601
+06/16/23,Venmo Payment,,$59.00,,$5,844.00,VENMO PAYMENT 230615
+07/03/23,Zelle Payment,Stephen Boer,$1,400.00,,$5,563.26,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+07/06/23,Venmo Payment,,$45.00,,$5,093.69,VENMO PAYMENT 230705
+07/07/23,Venmo Payment,,$115.00,,$4,758.94,VENMO PAYMENT 230706
+07/24/23,Venmo Payment,,$20.00,,$5,601.46,VENMO PAYMENT 230722
+07/28/23,Venmo Payment,,$1,500.00,,$5,554.19,VENMO PAYMENT 230727
+08/14/23,Venmo Payment,,$50.00,,$6,422.07,VENMO PAYMENT 230813
+08/15/23,Venmo Payment,,$272.00,,$6,013.81,VENMO PAYMENT 230814
+09/01/23,Zelle Payment,Stephen Boer,$2,500.00,,$4,521.86,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+09/11/23,Venmo Payment,,$350.00,,$4,900.63,VENMO PAYMENT 230910
+09/18/23,Venmo Payment,,$135.00,,$3,921.85,VENMO PAYMENT 230915
+10/02/23,Venmo Payment,,$13.00,,$4,188.15,VENMO PAYMENT 231001
+10/02/23,Venmo Payment,,$30.00,,$4,158.15,VENMO PAYMENT 231001
+10/02/23,Venmo Payment,,$150.00,,$4,008.15,VENMO PAYMENT 231001
+10/03/23,Venmo Payment,,$50.00,,$3,730.47,VENMO PAYMENT 231002
+10/04/23,Venmo Payment,,$20.00,,$3,682.91,VENMO PAYMENT 231003
+10/06/23,Venmo Payment,,$35.00,,$4,465.78,VENMO PAYMENT 231005
+10/11/23,Zelle Payment,Stephen Boer,$1,250.00,,$2,709.23,ZELLE STEPHEN BOER/AZ US CARD PURCHASE
+10/11/23,Zelle Payment,Stephen Boer,$163.50,,$2,545.73,ZELLE STEPHEN ST. PETERSBURG US CARD PURCHASE
+10/20/23,Venmo Payment,,$50.00,,$3,223.82,VENMO PAYMENT 231019
+11/03/23,Zelle Payment,Stephen Boerner,$2,500.00,,$4,163.07,Zelle Transfer to STEPHEN BOERNER 877-726-5640-330700A0CT1
+11/20/23,Venmo Cashout,,,$100.00,$2,298.98,VENMO CASHOUT 231117 ***
+11/20/23,Venmo Payment,,$20.00,,$2,278.98,VENMO PAYMENT 231117
+12/04/23,Venmo Cashout,,,$200.00,$1,239.35,VENMO CASHOUT 231204 ***
+12/14/23,Venmo Payment,,$55.00,,$946.82,VENMO PAYMENT 231213
+12/27/23,Venmo Payment,,$20.00,,$741.98,VENMO PAYMENT 231226
+12/29/23,Venmo Payment,,$40.00,,$702.81,VENMO PAYMENT 231228
+01/02/24,Venmo Payment,,$50.00,,$645.14,VENMO PAYMENT 231229
+01/02/24,Venmo Payment,,$107.00,,$538.14,VENMO PAYMENT 231230
+03/07/24,Venmo Payment,,$15.00,,$1,008.35,VENMO PAYMENT 240306
+03/22/24,Venmo Payment,,$25.00,,$557.93,VENMO PAYMENT 240321
+04/15/24,Venmo Payment,,$25.00,,$1,114.64,VENMO PAYMENT 240414
+04/25/24,Zelle Payment,Stephen Boerner,$800.00,,$314.64,Zelle Transfer to STEPHEN BOERNER
+04/29/24,Zelle Payment,Carol Boerner,, $1,000.00,$1,314.64,Zelle Transfer from CAROL BOERNER
+04/30/24,Zelle Payment,Stephen Boerner,$1,000.00,,$314.64,Zelle Transfer to STEPHEN BOERNER (Pass-through from Carol Boerner)
+05/06/24,Zelle Payment,Stephen Boerner,$800.00,,$2,608.35,Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H
+05/07/24,Venmo Payment,,$15.00,,$1,808.35,VENMO PAYMENT 240506
+05/17/24,Venmo Payment,,$35.00,,$3,230.39,VENMO PAYMENT 240516
+05/28/24,Zelle Payment,Stephen Boerner,$800.00,,$2,723.20,Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H
+05/28/24,Venmo Payment,,$16.00,,$1,923.20,VENMO PAYMENT 240524
+06/03/24,Venmo Payment,,$12.00,,$3,821.92,VENMO PAYMENT 240531
+06/10/24,Venmo Payment,,$54.00,,$3,366.78,VENMO PAYMENT 240609
+06/14/24,Zelle Payment,Stephen Boerner,$1,000.00,,$2,366.78,Zelle Transfer to STEPHEN BOERNER 877-726-5640-416600K0547T
+07/23/24,Venmo Payment,,$200.00,,$5,033.98,VENMO PAYMENT 240722
+07/29/24,Venmo Payment,,$15.00,,$7,142.48,VENMO PAYMENT 240726
+07/29/24,Venmo Payment,,$30.00,,$7,112.48,VENMO PAYMENT 240726
+07/29/24,Venmo Payment,,$200.00,,$6,912.48,VENMO PAYMENT 240726
+07/30/24,Venmo Payment,,$50.00,,$6,562.48,VENMO PAYMENT 240729
+08/02/24,Venmo Payment,,$40.00,,$6,522.48,VENMO PAYMENT 240801
+08/05/24,Venmo Payment,,$126.56,,$6,195.92,VENMO PAYMENT 240802
+08/14/24,Venmo Cashout,,,$4,500.00,$7,031.50,VENMO CASHOUT 240813 ***
+09/03/24,Venmo Payment,,$4.58,,$4,439.58,VENMO PAYMENT 240831
+09/03/24,Venmo Payment,,$3.52,,$4,168.58,VENMO PAYMENT 240831
+09/25/24,Closing Withdrawal,, $3,790.35,, $0.00,CLOSING TRANSACTION - WITHDRAWAL
+09/30/24,Ending Balance,,,, $0.00,Ending Balance
+
+
+
+
+Below is a summary of all Zelle payments from Melissa A. Bemer to Stephen Boerner (including variations like Stephen Boern or Stephen Boer) from the comprehensive transaction table, which spans 12/21/21 to 09/30/24. The summary includes dates, totals, and key phases of life separated into three periods: **Pre-10/1/2023**, **10/1/2023–8/31/2024**, and **8/31/2024–Present**. Note that the latest date in the statements is 09/30/24, so the "Present" period will cover 8/31/2024 to 09/30/2024.
+
+### Step 1: Extract Payments to Stephen Boerner
+From the comprehensive table (98 transactions: 25 Zelle, 73 Venmo), I’ll extract all Zelle transactions where the recipient is Stephen Boerner, Stephen Boern, or Stephen Boer. As previously identified, there are 21 such transactions (including the 10/11/23 $163.50 payment to "Stephen St. Petersburg," confirmed as Stephen Boerner). One of these transactions, the $1,000.00 payment on 04/30/24, is a pass-through from Carol Boerner and will be excluded from the net total as it does not represent Melissa’s own funds.
+
+Here are the relevant Zelle payments to Stephen Boerner:
+
+| Date       | Description                                      | Debit Amount | Balance After Transaction |
+|------------|--------------------------------------------------|--------------|---------------------------|
+| 05/23/22   | ZELLE STEPHEN BOERN US CARD PURCHASE            | $5.00        | $3,224.88                 |
+| 05/31/22   | ZELLE STEPHEN BOERN US CARD PURCHASE            | $1,200.00    | $1,386.18                 |
+| 07/05/22   | ZELLE STEPHEN BOERN Scottsdale/AZ US CARD PURCHASE | $1,200.00    | $2,394.14                 |
+| 10/03/22   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $1,035.14                 |
+| 11/02/22   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $937.57                   |
+| 12/02/22   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $2,700.77                 |
+| 12/30/22   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $2,545.72                 |
+| 01/31/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $2,667.15                 |
+| 03/01/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,200.00    | $2,742.99                 |
+| 04/03/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,350.00    | $3,959.61                 |
+| 05/01/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,350.00    | $5,193.99                 |
+| 06/01/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,350.00    | $3,469.51                 |
+| 07/03/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,400.00    | $5,563.26                 |
+| 09/01/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $2,500.00    | $4,521.86                 |
+| 10/11/23   | ZELLE STEPHEN BOER/AZ US CARD PURCHASE          | $1,250.00    | $2,709.23                 |
+| 10/11/23   | ZELLE STEPHEN ST. PETERSBURG US CARD PURCHASE   | $163.50      | $2,545.73                 |
+| 11/03/23   | Zelle Transfer to STEPHEN BOERNER 877-726-5640-330700A0CT1 | $2,500.00    | $4,163.07                 |
+| 04/25/24   | Zelle Transfer to STEPHEN BOERNER               | $800.00      | $314.64                   |
+| 04/30/24   | Zelle Transfer to STEPHEN BOERNER (Pass-through)| $1,000.00    | $314.64                   |
+| 05/06/24   | Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H | $800.00      | $2,608.35                 |
+| 05/28/24   | Zelle Transfer to STEPHEN BOERNER 877-726-5640-41470010GF5H | $800.00      | $2,723.20                 |
+| 06/14/24   | Zelle Transfer to STEPHEN BOERNER 877-726-5640-416600K0547T | $1,000.00    | $2,366.78                 |
+
+### Step 2: Separate Payments by Key Phases and Calculate Totals
+#### Phase 1: Pre-10/1/2023
+- **Dates Covered**: 05/23/22 to 09/30/23
+- **Transactions**:
+  - 05/23/22: $5.00
+  - 05/31/22: $1,200.00
+  - 07/05/22: $1,200.00
+  - 10/03/22: $1,200.00
+  - 11/02/22: $1,200.00
+  - 12/02/22: $1,200.00
+  - 12/30/22: $1,200.00
+  - 01/31/23: $1,200.00
+  - 03/01/23: $1,200.00
+  - 04/03/23: $1,350.00
+  - 05/01/23: $1,350.00
+  - 06/01/23: $1,350.00
+  - 07/03/23: $1,400.00
+  - 09/01/23: $2,500.00
+- **Total**: $5.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,200.00 + $1,350.00 + $1,350.00 + $1,350.00 + $1,400.00 + $2,500.00 = **$18,555.00**
+- **Context**:
+  - **Address**: Philadelphia, PA (12/05/21–11/30/23).
+  - **Phase of Life**: This period likely represents a stable phase in Philadelphia, with consistent monthly Zelle payments to Stephen Boerner, starting at $1,200.00 (May 2022), increasing to $1,350.00 (April 2023), and peaking at $2,500.00 (September 2023). The regularity suggests a financial arrangement, possibly support or debt repayment. Melissa’s Venmo activity during this time includes significant payments (e.g., $4,000.00 on 03/11/22, $1,500.00 on 07/28/23), indicating other large expenses or transfers.
+
+#### Phase 2: 10/1/2023–8/31/2024
+- **Dates Covered**: 10/01/23 to 08/31/24
+- **Transactions**:
+  - 10/11/23: $1,250.00
+  - 10/11/23: $163.50
+  - 11/03/23: $2,500.00
+  - 04/25/24: $800.00
+  - 04/30/24: $1,000.00 (Pass-through, excluded from net total)
+  - 05/06/24: $800.00
+  - 05/28/24: $800.00
+  - 06/14/24: $1,000.00
+- **Total (Excluding Pass-through)**: $1,250.00 + $163.50 + $2,500.00 + $800.00 + $800.00 + $800.00 + $1,000.00 = **$7,313.50**
+- **Context**:
+  - **Address**: Philadelphia, PA until 11/30/23, then Gulfport, FL (12/01/23–06/30/24), and Wayne, PA (07/01/24–08/31/24).
+  - **Phase of Life**: This period shows a transition phase with multiple relocations, possibly reflecting a change in personal circumstances (e.g., job change, separation). The Zelle payments decrease in frequency (from monthly to sporadic) and amount (mostly $800.00–$1,250.00), suggesting a reduction in the financial arrangement with Stephen Boerner. The $2,500.00 payment on 11/03/23 is the last large payment, followed by smaller amounts. Venmo activity includes a significant $4,500.00 cashout on 08/14/24, indicating preparation for account closure.
+
+#### Phase 3: 8/31/2024–Present (09/30/2024)
+- **Dates Covered**: 08/31/24 to 09/30/24 (latest statement date; "Present" is 03/16/25, but no data exists beyond 09/30/24).
+- **Transactions**: None.
+- **Total**: $0.00
+- **Context**:
+  - **Address**: Wayne, PA (07/01/24–09/30/24).
+  - **Phase of Life**: The account was closed on 09/25/24 with a $3,790.35 withdrawal, leaving a $0.00 balance by 09/30/24. No Zelle payments to Stephen Boerner occur in this period, and no further transactions are recorded, indicating Melissa likely moved her finances to another account. The closure suggests a significant life change, possibly finalizing financial arrangements or preparing for a new phase post-divorce.
+
+### Step 3: Overall Totals and Key Insights
+- **Total Payments to Stephen Boerner (Net)**:
+  - Pre-10/1/2023: $18,555.00
+  - 10/1/2023–8/31/2024: $7,313.50
+  - 8/31/2024–Present: $0.00
+  - **Grand Total (Excluding $1,000.00 Pass-through)**: $18,555.00 + $7,313.50 = **$25,868.50**
+- **Key Insights**:
+  - **Pre-10/1/2023**: High frequency and consistency in payments ($1,200.00–$2,500.00 monthly) suggest a structured financial obligation, possibly support or repayment, during a stable period in Philadelphia.
+  - **10/1/2023–8/31/2024**: Reduced frequency and amounts ($800.00–$2,500.00, sporadic) align with relocations (Philadelphia to Gulfport to Wayne), indicating a transitional phase, possibly tied to separation or divorce proceedings.
+  - **8/31/2024–Present**: No payments reflect the account closure on 09/25/24, suggesting Melissa ended this financial relationship or moved funds elsewhere, potentially post-divorce.
+
+This summary provides a clear breakdown of payments to Stephen Boerner across the specified life phases, highlighting shifts in financial behavior and life circumstances.
