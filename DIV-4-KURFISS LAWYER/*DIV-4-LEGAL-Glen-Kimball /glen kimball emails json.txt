@@ -1,0 +1,74 @@
+{
+  "Emails": [
+    {
+      "Subject": "Response to March 10, 2025 Email with “Subject: Immediate Termination of Listing Agreement and MLS Withdrawal”",
+      "Date": "Fri, Mar 14, 2025 at 11:02 AM",
+      "From": "Glen Kimball <gkimball@okllp.com>",
+      "To": "stephen.boerner@gmail.com",
+      "Content": "Dear Mr. Boerner: ...",
+      "Attachments": []
+    },
+    {
+      "Subject": "Re: Response to March 10, 2025 Email with “Subject: Immediate Termination of Listing Agreement and MLS Withdrawal”",
+      "Date": "Fri, Mar 14, 2025 at 6:25 PM",
+      "From": "Glen Kimball <gkimball@okllp.com>",
+      "To": "stephen.boerner@gmail.com",
+      "Content": "Dear Mr. Boerner: ...",
+      "Attachments": []
+    },
+    {
+      "Subject": "Re: Response to March 10, 2025 Email with “Subject: Immediate Termination of Listing Agreement and MLS Withdrawal”",
+      "Date": "Mon, Apr 14, 2025 at 1:18 PM",
+      "From": "Steve Boerner <stephen.boerner@gmail.com>",
+      "To": "Glen Kimball <gkimball@okllp.com>",
+      "Content": "Mr. Kimball, ...",
+      "Attachments": []
+    },
+    {
+      "Subject": "Re: Response to March 10, 2025 Email with “Subject: Immediate Termination of Listing Agreement and MLS Withdrawal”",
+      "Date": "Wed, Apr 16, 2025 at 3:33 PM",
+      "From": "Steve Boerner <stephen.boerner@gmail.com>",
+      "To": "Glen Kimball <gkimball@okllp.com>",
+      "Content": "Mr. Kimball, ...",
+      "Attachments": []
+    },
+    {
+      "Subject": "Re: Response to March 10, 2025 Email with “Subject: Immediate Termination of Listing Agreement and MLS Withdrawal”",
+      "Date": "Thu, Apr 17, 2025 at 10:18 AM",
+      "From": "Glen Kimball <gkimball@okllp.com>",
+      "To": "Steve Boerner <stephen.boerner@gmail.com>",
+      "Content": "Mr. Boerner: ...",
+      "Attachments": []
+    }
+  ]
+}
+
+
+
+{
+  "Emails": [
+    {
+      "Subject Line": "Demand Letter [Chain 1]",
+      "Date and Time": "Mon, Mar 10, 2025 at 1:58 PM",
+      "Sender": "Stephen J. Boerner",
+      "Primary Recipient(s)": "Juliana Martell, Joan LaMarchesino",
+      "CC Recipient(s)": "Melissa A. Bemer, Stephen and Melissa Boerner",
+      "Content Description": "Demand for termination of listing agreement due to undisclosed conflict of interest and negligent management.",
+      "Response Duration": "-",
+      "Attachment Title": "Demand Letter - Kurfiss Sotherbys International Realty.pdf",
+      "Break-Off Notes": "Breaks off to Melissa A. Bemer and Stephen and Melissa Boerner for co-owner awareness; potential escalation to Joan LaMarchesino for supervisory action."
+    },
+    {
+      "Subject Line": "Demand Letter [Chain 1]",
+      "Date and Time": "Mon, Mar 10, 2025 at 2:57 PM",
+      "Sender": "Melissa A. Bemer",
+      "Primary Recipient(s)": "Stephen J. Boerner",
+      "CC Recipient(s)": "Joan LaMarchesino, Juliana Martell, Julian Martell, Stephen and Melissa Boerner",
+      "Content Description": "Response to demand letter, indicating follow-up after consulting attorney.",
+      "Response Duration": "59 minutes after Stephen J. Boerner’s email",
+      "Attachment Title": "-",
+      "Break-Off Notes": "Breaks off to Joan LaMarchesino and Juliana Martell for brokerage notification; Julian Martell and Stephen and Melissa Boerner for broader awareness."
+    },
+    ...
+  ]
+}
