@@ -1,0 +1,156 @@
+EVIDENTIARY MATRIX: FINANCIAL ABANDONMENT & PRESERVATION CREDITS
+PROPERTY DETAILS
+Address: 246 N. 3rd St, Unit #4CD, Philadelphia, PA Type: 1,400 sqft, 2BR/2BA Condominium, Old City Philadelphia Acquisition Date: April 15, 2022 (Joint Marital Property) Current Value: $389,900 (Listed April 10, 2025) Monthly Expenses: $3,300+ (Mortgage, HOA, Taxes, Insurance, Utilities)
+
+FINANCIAL CONTRIBUTION TIMELINE
+Date Range	Stephen's Contribution	Melissa's Contribution	Stephen's %	Melissa's %	Notes
+HVAC Replacement (Jul 2023)	$12,000	$0	100%	0%	Emergency repair paid solely by Stephen
+Oct 2023 - Sep 2024 (Rental Period)	$8,400	$7,000	54.5%	45.5%	Total expenses: $42,000 ($3,500 × 12) minus rental income: $33,600 ($2,800 × 12) = $8,400 net loss
+Oct 2024 - Apr 2025 (Vacant Period)	$23,100	$0	100%	0%	7 months × $3,300 = $23,100
+Bridge Loan (Jan 3, 2025)	$12,500	$0	100%	0%	Loan funds exhausted Mar 16, 2025
+Standing HVAC Credit	$12,000	$0	100%	0%	Major capital improvement
+TOTAL CONTRIBUTIONS	$55,900	$7,000	88.9%	11.1%	
+PRESERVATION CREDIT ANALYSIS
+Stephen's Preservation Actions:
+Financial Contributions: $55,900 total (88.9% of all expenses)
+Bridge Loan: Personally obtained $12,500 loan to prevent early foreclosure
+Property Management: Managed tenant, repairs, and vacancy transition
+Sale Efforts: Coordinated listing, showings, and price reductions
+Foreclosure Prevention: Active efforts to prevent loss of marital asset
+Melissa's Abandonment Actions:
+Zero Contributions: No financial support since October 2024 despite employment
+Insurance Termination: Cut Stephen's health insurance during active PTSD treatment
+Communication Refusal: No response to financial emergency communications
+Sale Obstruction: [Document any actions hindering property sale]
+Financial Capacity: Employed full-time as nurse with regular income since December 2024
+LEGAL PRECEDENT ANALYSIS
+Preservation Credit Precedents:
+Biese v. Biese, 979 A.2d 892 (Pa. Super. 2009)
+Holding: Spouse who pays to maintain marital property post-separation entitled to credit
+Application: Stephen's 88.9% financial contribution entitles him to preservation credits
+Martin v. Martin, 900 A.2d 360 (Pa. 2006)
+Holding: Disproportionate contribution to preserve marital assets should be credited
+Application: Stephen's sole funding of property expenses deserves credit beyond 50%
+Middleton v. Middleton, 812 A.2d 1241 (Pa. Super. 2002)
+Holding: Court may award credits for necessary payments that preserve marital assets
+Application: Stephen's bridge loan and ongoing payments prevented asset loss
+Financial Abandonment Doctrine:
+Johnston v. Johnston, 864 A.2d 1272 (Pa. Super. 2004)
+Holding: Failure to contribute to preservation of marital assets considered in distribution
+Application: Melissa's 0% contribution since October 2024 constitutes abandonment
+23 Pa.C.S. § 3502(a)(7)
+Statute: Courts must consider "contribution or dissipation of each party" to marital property
+Application: 88.9% vs. 11.1% contribution disparity requires adjustment
+FINANCIAL CALCULATIONS
+Basic Preservation Credit Calculation:
+Total Property Expenses: $62,900
+Stephen's Contribution: $55,900 (88.9%)
+Melissa's Contribution: $7,000 (11.1%)
+Contribution Difference: 77.8% (88.9% - 11.1%)
+Advanced Credit Calculations:
+Standard 50/50 Split Adjustment:
+Stephen overpaid by: $55,900 - ($62,900 ÷ 2) = $55,900 - $31,450 = $24,450
+Melissa underpaid by: $31,450 - $7,000 = $24,450
+With Interest (3% Simple):
+Stephen's credit with interest: $24,450 × 1.03 = $25,183.50
+Present Value Adjustment: [Calculate based on time of final distribution]
+Ongoing Monthly Inequity:
+Monthly property costs: $3,300
+Stephen's current monthly burden: $3,300 (100%)
+Melissa's fair share: $1,650 (50%)
+Monthly inequity: $1,650 per month
+TRIPLE NECESSITY FRAMEWORK
+1. Disability Emergency:
+Diagnosis: PTSD/ADHD (documented March 26, 2024)
+Treatment Status: Ongoing treatment interrupted by insurance termination
+Income Status: No current income due to disability
+Insurance Status: No health insurance since August 2024
+2. Financial Emergency:
+Bridge Loan: $12,500 obtained January 3, 2025, exhausted March 16, 2025
+Current Financial Status: No reserves, no income
+Monthly Deficit: $3,300+ (total monthly property expenses)
+Financial Projection: Unsustainable without court intervention
+3. Legal Emergency:
+Foreclosure Risk: Begins April 16, 2025
+Property Value at Risk: $389,900
+Equity at Risk: [Calculate current equity]
+Time Sensitivity: Immediate court intervention required
+EQUITABLE DISTRIBUTION IMPACT ANALYSIS
+Standard Distribution Scenario:
+Property Value: $389,900
+Standard Split: $194,950 each (50/50)
+Preservation-Adjusted Distribution:
+Property Value: $389,900
+Preservation Credit: $24,450 to Stephen
+Adjusted Stephen's Share: $194,950 + $24,450 = $219,400 (56.3%)
+Adjusted Melissa's Share: $194,950 - $24,450 = $170,500 (43.7%)
+Foreclosure Scenario (Without Intervention):
+Lost Equity: [Calculate current equity]
+Stephen's Lost Investment: $55,900
+Melissa's Lost Investment: $7,000
+Additional Damages: Foreclosure costs, credit impact, deficiency risk
+HEALTH INSURANCE TERMINATION IMPACT
+Financial Impact:
+Insurance Premium Costs: [Document monthly COBRA or marketplace insurance costs]
+Treatment Interruption Costs: [Document any treatment delays or changes]
+Medication Costs: [Document out-of-pocket medication expenses]
+Medical Impact:
+Treatment Continuity: [Document impact on PTSD treatment]
+Condition Management: [Document impact on condition management]
+Recovery Timeline: [Document any delays in recovery]
+SETTLEMENT POSITION ANALYSIS
+Minimum Settlement Terms:
+Immediate 50/50 expense sharing going forward
+Reimbursement of $24,450 preservation credit
+Health insurance restoration or compensation
+Recognizing 100% of HVAC investment ($12,000)
+Ideal Settlement Terms:
+Immediate 50/50 expense sharing going forward
+Reimbursement of $24,450 preservation credit with interest
+Health insurance restoration or compensation plus damages
+Recognizing 100% of HVAC investment ($12,000) with interest
+Compensation for bridge loan interest and fees
+Higher percentage of property proceeds due to abandonment
+VISUAL TIMELINE: FINANCIAL ABANDONMENT PATTERN
+[THIS SECTION WOULD INCLUDE A VISUAL TIMELINE SHOWING:
+
+Property acquisition (April 2022)
+HVAC replacement (July 2023)
+Rental period with contributions (Oct 2023-Sep 2024)
+Stephen's home invasion/disability (Mar 2024)
+Melissa's insurance termination (Aug 2024)
+Vacancy period with Stephen's sole contributions (Oct 2024-present)
+Bridge loan (Jan 2025) and exhaustion (Mar 2025)
+Foreclosure risk (beginning Apr 16, 2025)]
+DOCUMENTATION INVENTORY
+Financial Documentation:
+Property deed showing joint ownership
+Mortgage statements showing payment history
+HOA fee statements and payment receipts
+HVAC replacement invoice and payment confirmation
+Bridge loan documentation
+Bank statements showing property payments
+Property tax payment records
+Insurance payment records
+Rental income documentation
+Property listing history
+Medical Documentation:
+PTSD/ADHD diagnosis (March 26, 2024)
+Treatment records
+Health insurance termination notice
+COBRA eligibility notification
+Medical expense receipts post-insurance termination
+Communication Documentation:
+Emails regarding property expenses
+Text messages requesting financial contribution
+Real estate agent communications
+Foreclosure warning notices
+Documented attempts to resolve financial emergency
+STRATEGIC RECOMMENDATIONS
+Emergency Motion: File immediately to secure interim expense allocation
+Documentation Protocol: Maintain detailed expense log with receipts
+Communication Protocol: Document all property-related communications
+Health Insurance Claim: Develop separate claim for health insurance termination
+Expert Consultation: Consider financial expert to calculate precise preservation credit
+Settlement Framework: Develop settlement range with financial calculations
+Trial Preparation: Organize evidence matrix for potential trial
